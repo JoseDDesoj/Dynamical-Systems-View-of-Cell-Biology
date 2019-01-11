@@ -1,7 +1,8 @@
 # Dynamical-Systems-View-of-Cell-Biology
 
 A set of functions and models for the dynamical analysis of regulatory networks.
-We use the R computation environment to analyse simple discrete/continuous and deterministic/stochastic dynamical models.
+
+I continuously update code that I have used to adapt the R computing environment for the analysis of simple discrete/continuous and deterministic/stochastic dynamical models.
 
 References:
 
